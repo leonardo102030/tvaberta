@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Leoricart Canais Aberto",TV Diário CE
-https://stream-02.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTWIoDhqNvp5ifPuNuzbYTQ)/dm/3/x7txn7q/s/live-2.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globo-3.png" group-title="Leoricart Canais Aberto",Globo SP
 http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
@@ -273,6 +272,9 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1763240055.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://1.bp.blogspot.com/-3oCl_KFFtsE/X9ToWP3XcoI/AAAAAAAAD9U/UkImSbf0qCAiX8-lhGbZLIbRtIhFO5FnACLcBGAsYHQ/s0/LOADING%2BTV.png" group-title="Leoricart Canais Web",Loanding TV
 https://aws-br.cdn.booyah.live/hls/1000001/34850987_480.m3u8
+
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Leoricart Canais Aberto",TV Diário CE
+https://stream-02.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTWIoDhqNvp5ifPuNuzbYTQ)/dm/3/x7txn7q/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Esportes",Band Sports
 http://13ca3tango.cf/HD_BAND_SPORTS/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
