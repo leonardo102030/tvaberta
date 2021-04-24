@@ -58,7 +58,7 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/041a53eb1b2c6c9d65151c102342544b.jpg" group-title="Leoricart Canais Aberto",TV Brasil
 https://video-rvd-pe-cdc-gw-2-1.rnp.br/live/ocp(t(FmhceQuapfM)r(fVR9ug)a(sUPdMg)p(d(2xc)k(q8U)m(p6SLbppIzm4XuH3ZzEOqqw)n(a(7ZvSOQ)s(efw)'a(2K3WXg)s(eb4)))s(s(n4A)b(56wbEXymMX2fqqU5C2QkCbv_fdtulWzorG1dQYJKTpxfSwuo15xyjOz7ldocA7-gjYitPuOCUFRdgrMybA)'s(Nk8)b(1O5Z4RkcawuYDJUlXCP92AzVMDGyMNgFSxpobUMpZLa6bYmw88EJVOnhKWPeiW57x6jvRceWOMNDUlY45kQ3-vQrpmK7dSIAsE1J7ZrV)'s(OGY)b(3asqnX0j))m(0))/1_index.m3u8
 
-#EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="Leoricart Canais Aberto",TV Escola
+#EXTINF:-1,TV Escola
 https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FmhcgaesFcA)r(fVR9ug)a(sUPdMg)p(d(2xc)k(q8U)m(YTee0GdTXnNxInuTnebISg)n(a(LO1YfQ)s(CGo)'a(UANEhQ)s(AuI)))s(s(Ezs)b(Y3x2n4NLx03xSVurP9Ce0Q2zn5iZQdqd-82QaK1F5G0BMq3q85B_xhraT5RL8RY2ZvOfjLG3tkQxvMwiog)'s(s4I)b(FCzYhODH9CxjJec2JOOAoTPYR0JvDhyHqET2LBesvl23bCS1cv3tDbnrhvgIFPqD5vm3EXkIfEKm3WulnSV7y_g7w0938ZK_uaItlTiY)'s(doE)b(Au5zBYLI))m(0))/tvescola_index.m3u8
 
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/redebrasil-150x124.png" group-title="Leoricart Canais Aberto",Rede Brasil
@@ -160,7 +160,7 @@ http://2203.janjua.pw:8089/live/aovivotudo_foxsports/playlist.m3u8?id=89925&pk=a
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxsports2-150x103.png" group-title="Leoricart Canais Esportes",Fox Sports 2
 http://2203.janjua.pw:8089/live/aovivotudo_foxsports2/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 1
+#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere clubes
 http://2203.janjua.pw:8089/live/aovivotudo_premier1/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
  
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Leoricart Canais Esportes",Premiere 2
