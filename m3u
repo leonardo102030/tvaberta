@@ -9,6 +9,13 @@ https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globo-3.png" group-title="Leoricart Canais Aberto",Globo RJ
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS: FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=f4mTester;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/40076.m3u8
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-67-canal-amc.png" group-title="CANAIS: SD",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=f4mTester;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/132371.m3u8
+
+
 #EXTINF:-1,Globo SP
 http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
