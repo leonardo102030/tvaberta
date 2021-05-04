@@ -1,26 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS FILMES E SERIES",BBB
-https://geralorigin.eu-central-1.edge.mycdn.live/live/bbb01sd/video.m3u8?md5=IgVwKTWWzMyWAfGrRY_sQg&expires=1619502310|Referer=https://topcanais.com/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS FILMES E SERIES",BBB
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8|Referer=https://topcanais.com/
 
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globo-3.png" group-title="Leoricart Canais Aberto",Globo RJ
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS: FILMES E SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=f4mTester;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/40076.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/40076.m3u8
 
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-67-canal-amc.png" group-title="CANAIS: SD",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=f4mTester;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/132371.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/132371.m3u8
 
 
 #EXTINF:-1,Globo SP
 http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/rederecord-150x147.png" group-title="Leoricart Canais Aberto",Record SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/rederecord-150x147.png" group-title="Leoricart Canais Aberto",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?Leoricart
@@ -53,7 +48,7 @@ http://2203.janjua.pw:8089/live/aovivotudo_sbt/playlist.m3u8?id=89925&pk=af4e980
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w1558985885.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/band-150x88.png" group-title="Leoricart Canais Aberto",Band HD
-https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
  
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/band-150x88.png" group-title="Leoricart Canais Aberto",Band SD
 http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
@@ -101,7 +96,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/amc-150x68.png" group-title="Leoricart Canais Filmes e Series",Amc
-https://origin-02.nxplay.com.br/AMC_BRASIL/tracks-v1a1a2a3l2/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://origin-02.nxplay.com.br/AMC_BRASIL/tracks-v1a1a2a3l2/mono.m3u8
 
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt-150x150.png" group-title="Leoricart Canais Filmes e Series",Tnt
 http://2203.janjua.pw:8089/live/aovivotudo_tnt/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
