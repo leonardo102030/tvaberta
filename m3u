@@ -3,7 +3,8 @@
 #EXTINF:-1,teste 2
 https://tna5.bozztv.com/S2VhdSWJNIDYVmoSUkHL/index.m3u8|referer=https://ssh101.com/
 
-
+#EXTINF:-1 tvg-ID="" tvg-name="BR: A & E" tvg-logo="" group-title="BRAZIL",BR: tt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=f4mTester;url=http://svrjupiter.live/J4AAZWNN/WL6GYQEA/1873?tkn=1620440803
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globo-3.png" group-title="Leoricart Canais Aberto",Globo RJ
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
