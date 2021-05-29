@@ -1,19 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,teste 2
-https://tna5.bozztv.com/S2VhdSWJNIDYVmoSUkHL/index.m3u8|referer=https://ssh101.com/
-
-#EXTINF:-1 tvg-ID="" tvg-name="BR: A & E" tvg-logo="" group-title="BRAZIL",BR: tt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=f4mTester;url=http://svrjupiter.live/J4AAZWNN/WL6GYQEA/1873?tkn=1620440803
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globo-3.png" group-title="Leoricart Canais Aberto",Globo RJ
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS: FILMES E SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/40076.m3u8
-
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-67-canal-amc.png" group-title="CANAIS: SD",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://nbrasil.biz:80/live/Sueli2021/2021Sueli/132371.m3u8
-
 
 #EXTINF:-1,Globo SP
 http://2203.janjua.pw:8089/live/aovivotudo_globo/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
@@ -58,7 +46,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=https://origin-
 http://2203.janjua.pw:8089/live/aovivotudo_band/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/band-150x88.png" group-title="Leoricart Canais Aberto",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/band-150x88.png" group-title="Leoricart Canais Aberto",RBA Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
