@@ -120,45 +120,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://playplus
 #EXTINF:-1 tvg-id="IPTV LR"tvg-name="Leoricart" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="Leoricart Canais Noticias",TV Guará (Record News)
 https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w478266965.m3u8
 
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",FOX SPORTS
-http://20nl10whiskey.ga/SD_FOX_SPORTS/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",DAZN 1
-http://20nl10hotel.ga/HD_DAZN_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",SPORTV
-http://50.7.34.34/SD_UDHASKDN_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",COPA DO NORDESTE 1
-http://21eua10india.cf/HD_NORDESTE_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",CONMEBOL 01
-http://50.7.34.34/SD_CONMEBOL_01/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",CONMEBOL 01*
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://50.7.34.34/SD_CONMEBOL_01/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",CONMEBOL 02
-http://50.7.34.34/SD_CONMEBOL_02/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",CONMEBOL 03
-http://50.7.34.34/SD_CONMEBOL_03/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",CONMEBOL 04
-http://50.7.34.34/SD_CONMEBOL_04/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",PFC 2
-http://14ca3mike.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",PFC 3
-http://14ca3bravo.ga/FHD_PFC_7/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",EI PLUS
-http://20eua10delta.cf/SD_EI_PLUS_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
-#EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",BAND SPORTS
-http://13ca3tango.cf/HD_BAND_SPORTS/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
-
 #EXTINF:0 id="IPTV LR"tvg-name="Leoricart" tvg-logo="" group-title="Leoricart Canais Esportes",Combate
 http://2203.janjua.pw:8089/live/aovivotudo_combate/playlist.m3u8?id=89925&pk=af4e9805eb9793b325987b13e3b970a9d745778e7e7176730c3fce5ae5d7e023
 
@@ -326,24 +287,31 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://playplus
 
 #EXTINF:-1 group-title="TVAberta" tvg-logo="https://i.imgur.com/PLSvqhN.jpg" ,DISNEY XD HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
 #EXTINF:-1 group-title="TvAberta" tvg-logo="https://playkids-blog-assets.s3.amazonaws.com/wp-content/uploads/2020/07/10132345/logo-playkids.png" ,PLAYKIDS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=LR;url=http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
+
 #EXTINF:-1 group-title="WEBTV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png", RetroCartoonTV
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
 #EXTINF:-1 group-title="PlutoTVBR" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png", Naruto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
 #EXTINF:-1 group-title="PlutoTVBR" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png", Pluto TV Anime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 group-title="WEBTV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png", RetroCartoonTV2
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+
 #EXTINF:-1 group-title="TVAberta" tvg-logo="https://yt3.ggpht.com/a/AATXAJyMlxxy59S-4o_xXHss0mhRjE7manBgOhvLEw=s900-c-k-c0xffffffff-no-rj-mo" ,Zoomoo
 http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://ps-str.srvsite.com/arquivos/5275/cabecalho-5275-20190312162000.png" ,Ely TV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
 #EXTINF:-1 group-title="PlutoTVBR" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png", A Vida Moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
 #EXTINF:-1 group-title="PlutoTVBR" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png", As  Pistas de Blue
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
@@ -365,87 +333,3 @@ https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2013%2F05%2F10%2F12%2FWDL-Logo-26211_47582_053327613_1281471502.jpg", TV Séries-Mulher Biônica
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 
-
-#EXTINF:-1,Fx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=IPTV;url=http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4580|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Tnt
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4607|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Megapix
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4649|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Sportv sd
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4620|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Fox sports sd
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4663|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Fox sports 2
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4664|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,ESPN br
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4668|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Fox
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4665|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Sony
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4681|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Band sporta
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4683|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Axn
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4686|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Amc
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4688|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,A&E
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4689|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Tv tem
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4790|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Globo
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4791|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Rbs
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4800|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Globo nordeste 
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4801|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Sportv
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4715|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Pfc
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/5699|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Space
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4622|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Sportv 2
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4621|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Sportv
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4620|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Studio universal
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4619|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Tc action
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4615|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Tc fun
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4613|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Tc pipoca
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4612|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Pfc 2
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4632|user-agent=NSPlayer/9.0.0.3268
-
-#EXTINF:-1,Pfc sd
-http://185.93.1.216:8080/B2A463CD6621/B2A463CD6621/4628|user-agent=NSPlayer/9.0.0.3268
